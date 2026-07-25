@@ -1,3 +1,5 @@
+# OPENCORD IS DISCONTINUED! PLEASE DON'T DOWNLOAD THE RELEASE APK! IT MAY FLAG YOUR ACCOUNT FOR DISCORD TOS ABUSE.
+
 <h1 align="center">OpenCord</h1>
 <p align="center">
   <a href="https://discord.gg/3y6vbneMsW">
